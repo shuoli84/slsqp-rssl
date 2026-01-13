@@ -3,6 +3,8 @@ name = "slsqp-rssl"
 description = "slsqp rust impl, ported from scipy Fortran impl"
 version = "0.1.0"
 edition = "2024"
+license = "MIT"
+repository = "https://github.com/shuoli84/slsqp-rssl"
 
 [lib]
 crate-type = ["cdylib", "rlib"]
